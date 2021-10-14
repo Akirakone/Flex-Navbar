@@ -1,0 +1,48 @@
+
+#nav ul { 
+    display: flex;
+    list-style: none;
+    width: 350px;
+    justify-content: space-around;
+    padding-left: 0px 20px;
+    text-align: center;
+    margin-left: 400px;
+}
+
+.navbar{
+    background-color: gray;
+align-items: center;
+width: 900px;
+min-height: 30px;
+margin: 0 auto;
+
+
+}
+
+.btn{
+    font-size: inherit;
+    background-color: rgb(128, 144, 197);
+    color: white;
+    border: black;
+    box-shadow: 3px 3px black;
+}
+
+nav.links{
+    text-align: right;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    gap:20px;
+    list-style: none;
+}
+
+#pp{
+    color: white;
+   margin-left: 20px;
+}
+
+#nav{
+    
+    align-items: center;
+    display: flex;
+}
